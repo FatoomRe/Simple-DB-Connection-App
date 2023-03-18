@@ -1,0 +1,14 @@
+C:\Users\hamuo\Source\Repos\CRUDSample\CRUDSample\CRUDSample\bin\Debug\netstandard2.0\CRUDSample.deps.json
+C:\Users\hamuo\Source\Repos\CRUDSample\CRUDSample\CRUDSample\bin\Debug\netstandard2.0\CRUDSample.dll
+C:\Users\hamuo\Source\Repos\CRUDSample\CRUDSample\CRUDSample\bin\Debug\netstandard2.0\CRUDSample.pdb
+C:\Users\hamuo\Source\Repos\CRUDSample\CRUDSample\CRUDSample\obj\Debug\netstandard2.0\CRUDSample.csproj.AssemblyReference.cache
+C:\Users\hamuo\Source\Repos\CRUDSample\CRUDSample\CRUDSample\obj\Debug\netstandard2.0\CRUDSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamuo\Source\Repos\CRUDSample\CRUDSample\CRUDSample\obj\Debug\netstandard2.0\AddEmployeePage.xaml.g.cs
+C:\Users\hamuo\Source\Repos\CRUDSample\CRUDSample\CRUDSample\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\hamuo\Source\Repos\CRUDSample\CRUDSample\CRUDSample\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\hamuo\Source\Repos\CRUDSample\CRUDSample\CRUDSample\obj\Debug\netstandard2.0\CRUDSample.AssemblyInfoInputs.cache
+C:\Users\hamuo\Source\Repos\CRUDSample\CRUDSample\CRUDSample\obj\Debug\netstandard2.0\CRUDSample.AssemblyInfo.cs
+C:\Users\hamuo\Source\Repos\CRUDSample\CRUDSample\CRUDSample\obj\Debug\netstandard2.0\CRUDSample.csproj.CoreCompileInputs.cache
+C:\Users\hamuo\Source\Repos\CRUDSample\CRUDSample\CRUDSample\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\hamuo\Source\Repos\CRUDSample\CRUDSample\CRUDSample\obj\Debug\netstandard2.0\CRUDSample.dll
+C:\Users\hamuo\Source\Repos\CRUDSample\CRUDSample\CRUDSample\obj\Debug\netstandard2.0\CRUDSample.pdb

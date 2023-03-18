@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "hvYuQCAMcTEH/NH1TBTIm8NAW9ZNEZQrJTBhMkYgXXwSq90gBWIfqqoUhoslUkI/TXnNtLkqoOw8rd3Cgp/OWg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hamuo\\source\\repos\\CRUDSample\\CRUDSample\\CRUDSample\\CRUDSample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hamuo\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\hamuo\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\hamuo\\.nuget\\packages\\sqlite-net-pcl\\1.5.231\\sqlite-net-pcl.1.5.231.nupkg.sha512",
+    "C:\\Users\\hamuo\\.nuget\\packages\\sqlitepclraw.bundle_green\\1.1.11\\sqlitepclraw.bundle_green.1.1.11.nupkg.sha512",
+    "C:\\Users\\hamuo\\.nuget\\packages\\sqlitepclraw.core\\1.1.11\\sqlitepclraw.core.1.1.11.nupkg.sha512",
+    "C:\\Users\\hamuo\\.nuget\\packages\\xamarin.forms\\3.3.0.967583\\xamarin.forms.3.3.0.967583.nupkg.sha512"
+  ],
+  "logs": []
+}
